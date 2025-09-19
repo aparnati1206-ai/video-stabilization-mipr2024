@@ -1,0 +1,25 @@
+Abstract—Video stabilization is essential for producing high
+quality videos by eliminating unwanted camera motion, resulting
+in smooth, steady footage that enhances visual coherence. However,
+existing methods often pose several challenges such as the difficulties
+in accurately tracking specific objects, and high computational demands.
+These limitations hinder the ability to achieve optimal stabilization results
+and limit the practical applicability of video stabilization techniques
+in real world scenarios. To address these challenges, we introduce a
+novel end-to-end method for object-centric video stabilization in the
+presence of multiple independent objects. Our approach introduces
+two algorithms: 1) Object-Centric Video Stabilization (OCViS),
+which facilitates effective detection and tracking of specific objects
+within each frame, followed by stabilization with respect to the object
+of interest, and 2) Optical Flow based Transformation Accumulation
+and Smoothing (OFTrAnS) to remove inherent shakiness and maintain
+consistent stabilization, even with multiple independent objects.
+Most importantly, our algorithms achieve these results without relying
+on deep neural networks or ground-truth data, providing a more efficient
+and accessible solution for enhancing video quality on mobile devices
+and handheld cameras. Our experiments demonstrate that the proposed
+approach significantly outperforms a strong baseline by a large margin
+emphasizing the efficacy of our method.
+
+Index Terms—Object-Centric Video Stabilization, Shakiness Removal,
+Multiple Independent Objects, Object Tracking, Video Processing.

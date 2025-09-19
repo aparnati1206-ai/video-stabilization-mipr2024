@@ -1,0 +1,12 @@
+@inproceedings{tiwari2024objectcentric,
+  author    = {Aparna Tiwari and Hitika Tiwari and KS Venkatesh and Anuj Kumar Sharma},
+  title     = {Enhancing Video Stability with Object-Centric Stabilization},
+  booktitle = {2024 IEEE 7th International Conference on Multimedia Information Processing and Retrieval (MIPR)},
+  year      = {2024},
+  pages     = {593--599},
+  doi       = {10.1109/MIPR62202.2024.00101},
+  publisher = {IEEE},
+  address   = {San Jose, CA, USA},
+  isbn      = {979-8-3503-5142-2},
+  eissn     = {2770-4319}
+}
